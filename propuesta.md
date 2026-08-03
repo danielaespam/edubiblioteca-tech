@@ -11,3 +11,8 @@ Se plantea el diseño conceptual de una **plataforma web y móvil centralizada**
 1. **Identificación rápida:** Escaneo de códigos QR adheridos a los equipos.
 2. **Gestión de préstamos:** Asignación digital vinculada al perfil del estudiante/usuario.
 3. **Monitoreo en tiempo real:** Panel de control para administradores.
+
+
+## 4. Beneficiarios
+- Estudiantes universitarios y comunitarios.
+- Personal administrativo de la biblioteca.
