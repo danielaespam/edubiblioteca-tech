@@ -12,3 +12,7 @@ REQUISITOS FUNCIONALES CONCEPTUALES - EDUBIBLIOTECA
 3. MÓDULO DE PRÉSTAMOS:
    - Check-in / Check-out mediante escaneo de QR.
    - Definición automática de fecha límite de entrega.
+
+4. REQUISITOS NO FUNCIONALES:
+   - Interfaz sencilla y fácil de usar desde celulares.
+   - Seguridad y privacidad en los datos del estudiante.
