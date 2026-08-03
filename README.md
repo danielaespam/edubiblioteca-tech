@@ -1,2 +1,14 @@
-# edubiblioteca-tech
-Proyecto conceptual para la gestión y control de préstamos de equipos portátiles.
+# EduBiblioteca Tech 
+
+## Visión General del Proyecto
+**EduBiblioteca Tech** es una propuesta tecnológica conceptual para solucionar la desorganización, pérdida y falta de trazabilidad en el préstamo de equipos portátiles y materiales educativos en centros comunitarios y educativos.
+
+## Estructura del Repositorio
+- `README.md`: Visión general y detalles del proyecto.
+- `propuesta.md`: Diagnóstico detallado del problema y solución tecnológica.
+- `requisitos.txt`: Lista conceptual de requisitos del sistema.
+- `alertas.txt`: Propuesta conceptual del módulo de notificaciones (Aporte colaborativo).
+
+## Equipo de Trabajo
+- **Líder del Proyecto:** Daniela Loor
+- **Colaborador Invitado:** Madeline Ramirez
