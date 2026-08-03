@@ -21,5 +21,5 @@ Se aplicará la metodología ágil **Scrum** para el desarrollo conceptual por i
 - **Avance 2:** Módulo Colaborativo de Alertas (Semana 2)
 
 ## Equipo de Trabajo
-- **Líder del Proyecto:** Daniela Loor
-- **Colaborador Invitado:** Madeline Ramirez
+- **Líder del Proyecto:** Daniela Loor.
+- **Colaborador Invitado:** Madeline Ramirez.
