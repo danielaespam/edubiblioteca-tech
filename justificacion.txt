@@ -2,3 +2,6 @@ JUSTIFICACIÓN DEL PROYECTO
 
 El proyecto es viable e importante porque optimiza los recursos de la biblioteca comunitaria,
 facilitando el acceso digital a estudiantes sin equipo propio.
+
+CONCLUSIÓN:
+La implementación de EduBiblioteca Tech resolverá el descontrol actual con bajo costo.
