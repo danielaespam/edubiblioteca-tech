@@ -1,4 +1,4 @@
-APORTE COLABORATIVO: MÓDULO DE ALERTAS Y AVISOS
+APORTE COLABORATIVO: MÓDULO DE ALERTAS Y AVISOS.
 1. NOTIFICACIONES AUTOMÁTICAS:
    - Recordatorio por correo 24 horas antes del vencimiento del préstamo.
    - Alerta al administrador cuando un equipo no es devuelto a tiempo.
