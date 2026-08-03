@@ -1,0 +1,5 @@
+GLOSARIO DE TÉRMINOS CONCEPTUALES
+
+- Check-in: Proceso de devolución de un equipo.
+- Check-out: Proceso de préstamo de un equipo.
+- QR Code: Código de respuesta rápida para identificar el equipo.
