@@ -1,6 +1,5 @@
-==================================================
+
 REQUISITOS FUNCIONALES CONCEPTUALES - EDUBIBLIOTECA
-==================================================
 
 1. MÓDULO DE USUARIOS:
    - Registro con nombre, identificación y correo.
