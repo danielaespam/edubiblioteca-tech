@@ -1,0 +1,15 @@
+==================================================
+REQUISITOS FUNCIONALES CONCEPTUALES - EDUBIBLIOTECA
+==================================================
+
+1. MÓDULO DE USUARIOS:
+   - Registro con nombre, identificación y correo.
+   - Perfiles diferenciados (Administrador y Estudiante).
+
+2. MÓDULO DE INVENTARIO:
+   - Registro de equipos con número de serie y QR.
+   - Estado del equipo (Disponible, Prestado, En Mantenimiento).
+
+3. MÓDULO DE PRÉSTAMOS:
+   - Check-in / Check-out mediante escaneo de QR.
+   - Definición automática de fecha límite de entrega.
